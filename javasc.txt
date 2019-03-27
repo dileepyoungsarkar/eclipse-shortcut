@@ -1,0 +1,17 @@
+https://github.com/dileepyoungsarkar/eclipse-shortcut.git
+
+Purpose              	          Short cut in eclipse
+	
+Add import	                       ctrl+shift+M
+Add java doc component name	       alt+shift+J
+Close	                            ctrl+F4
+Close All                       	ctrl+shift+F4
+Conent Assist	                    ctrl+spacebar
+Copy Lines of same	                ctrl+alt+Down 
+Debug	                            F11
+Delete Line	                        ctrl+D
+delete entire line from cursor	    ctrl+shift+delete
+Go to Line	                        ctrl+L
+zoom out code	                    ctrl+=
+zome in	                            ctrl+-
+optamsing input	                    ctrl+alt+O
